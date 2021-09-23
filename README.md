@@ -30,7 +30,7 @@ This project was developed with the following technologies:
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Java Script](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [VS Code](https://code.visualstudio.com/) with [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [VS Code](https://code.visualstudio.com/)
 
 
 ## :memo: License
